@@ -118,7 +118,8 @@ dependencies:
 
 ## Berikut adalah hasilnya
 
-![image](https://github.com/Muhamadsuryanegara/UAS_P.Mobile.2/assets/92678339/79d60c31-97bb-442e-88ef-40a8efbace24)
+![image](https://github.com/adamsyanda/UAS_pemograman.mobile2/assets/92682351/8a1795a5-ca51-4ab9-9cc3-8c21eb629828)
+
 
 
 
